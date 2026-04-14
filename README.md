@@ -31,9 +31,9 @@ Pastikan koneksi kabel sesuai dengan konfigurasi berikut:
 ## 📚 Kebutuhan Library (Dependencies)
 Sebelum melakukan *compile*, pastikan library berikut sudah terinstal di Arduino IDE:
 1. `MPU6050_6Axis_MotionApps20.h` (oleh Jeff Rowberg)
-2. `HMC5883L.h` (oleh Korneliusz Jarzebski atau sejenisnya)
-3. `CRSFforArduino.hpp` (untuk komunikasi ELRS)
-4. `Servo.h` (bawaan Arduino)
+2. `HMC5883L.h` (oleh Korneliusz Jarzebski)
+3. `CRSFforArduino.hpp` (oleh Cassandra "ZZ Cat" Robinson)
+4. `Servo.h` (oleh Michael Margolis)
 
 ## ⚙️ Catatan Tuning PID
 Variabel PID terletak di bagian atas kode. Karena menggunakan *Cascade PID*:
