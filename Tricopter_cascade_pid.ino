@@ -9,7 +9,7 @@
  * * Komponen Utama:
  * - Sensor   : MPU6050 (SDA: PB9, SCL: PB8), HMC5883L
  * - Remote   : ELRS via CRSF Protocol (TX/RX pada Serial2)
- * - Aktuator : 3 ESC + Servo Mekanisme Yaw
+ * - Aktuator : 3 ESC + 2 Servo Mekanisme Yaw
  * * "Fly safe, crash gracefully!" 
  * -------------------------------------------------------------------------
  */
